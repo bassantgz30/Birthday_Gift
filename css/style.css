@@ -9,14 +9,13 @@ body {
     background-repeat: repeat;
 }
 
-/*
-.transbox {
+
+.transparent-box{
     margin: 30px;
-    background-color: #ffffff;
-    border: 1px solid black;
-    opacity: 0.8;
+    background-color: rgba(255, 255, 255, 0.9);
+    border: 3px solid black;
   }
-*/
+
 #louz-img {
     width: 200px;
     border-radius: 50%;
