@@ -16,7 +16,7 @@ body {
 }
 
 .transparent-box{
-    margin: 30px;
+    margin: 30px 80px;
     background-color: rgba(255, 255, 255, 0.8);
     border: 3px solid black;
 }
@@ -84,6 +84,7 @@ h1, h2, h3, h4, p {
 
 #gift-img-tuna {
     height: 300px;
+    margin-bottom: 20px;
 }
 
 #gift-img-tuna:hover {
