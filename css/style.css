@@ -3,6 +3,20 @@ body {
     font-family: 'Happy Monkey', system-ui;
 }
 
+.blue-bkg {
+    background-image: url("../images/footprint-bkg.png");
+    background-size: contain;
+    background-repeat: repeat;
+}
+
+/*
+.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.8;
+  }
+*/
 #louz-img {
     width: 200px;
     border-radius: 50%;
