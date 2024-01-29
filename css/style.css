@@ -76,10 +76,16 @@ h1, h2, h3, h4, p {
 
 #gift-img-happy:hover {
     background-image: url("../images/happy2.gif");
-    background-size: cover;
 }
 
 #gift-img-cute:hover {
     background-image: url("../images/cute.gif");
-    background-size: cover;
+}
+
+#gift-img-tuna {
+    height: 300px;
+}
+
+#gift-img-tuna:hover {
+    background-image: url("../images/tuna.gif");
 }
