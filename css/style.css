@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    font-family: 'Happy Monkey', system-ui;
+}
+
+#louz-img {
+    width: 200px;
+    border-radius: 50%;
+}
