@@ -47,6 +47,28 @@ h1, h2, h3, h4, p {
     border-radius: 50%;
 }
 
+.gift-section {
+    margin-top: 50px;
+}
+
+.gift-title {
+    margin-bottom: 10px;
+}
+
+.gift-hint {
+    margin-top: 0;
+}
+
 .gift-img {
-    width: 400px;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    background-image: url("../images/gift-cover.png");
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+}
+
+.gift-img:hover {
+    background-image: url("../images/heart.gif");
 }
