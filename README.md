@@ -1,6 +1,6 @@
 <h1>Louz's Birthday Gift 🐱</h1>
 <br>
-Lous is my lovely cat ❤️❤️, so I though of him as my best friend to practice these new features.
+Louz is my lovely cat ❤️❤️, so I though of him as my best friend to practice these new features.
 <br><br>
 This is a single web-page site, just to practice and improve my skills.
 <br><br>
